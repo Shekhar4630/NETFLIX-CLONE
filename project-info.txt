@@ -1,0 +1,3 @@
+Project: Git Workflow Assignment
+Purpose: Practice Git branching and merging
+Tools: VS Code, Git, GitHub
